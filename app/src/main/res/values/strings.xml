@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VipShare</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="need_share">Share</string>
+</resources>
